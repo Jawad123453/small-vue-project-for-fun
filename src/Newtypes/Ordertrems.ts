@@ -1,0 +1,1 @@
+export type Ordertrem = "title" | "loaction" | "salary"
